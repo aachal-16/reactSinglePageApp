@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactSinglePageApp/static/css/main.43023ba9.chunk.css",
+    "main.css": "/reactSinglePageApp/static/css/main.125a5430.chunk.css",
     "main.js": "/reactSinglePageApp/static/js/main.e8f41fb9.chunk.js",
     "main.js.map": "/reactSinglePageApp/static/js/main.e8f41fb9.chunk.js.map",
     "runtime-main.js": "/reactSinglePageApp/static/js/runtime-main.4daa176b.js",
@@ -12,7 +12,7 @@
     "static/js/3.ff3c0386.chunk.js.map": "/reactSinglePageApp/static/js/3.ff3c0386.chunk.js.map",
     "index.html": "/reactSinglePageApp/index.html",
     "static/css/2.6921e0b9.chunk.css.map": "/reactSinglePageApp/static/css/2.6921e0b9.chunk.css.map",
-    "static/css/main.43023ba9.chunk.css.map": "/reactSinglePageApp/static/css/main.43023ba9.chunk.css.map",
+    "static/css/main.125a5430.chunk.css.map": "/reactSinglePageApp/static/css/main.125a5430.chunk.css.map",
     "static/js/2.2c346b27.chunk.js.LICENSE.txt": "/reactSinglePageApp/static/js/2.2c346b27.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/reactSinglePageApp/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4daa176b.js",
     "static/css/2.6921e0b9.chunk.css",
     "static/js/2.2c346b27.chunk.js",
-    "static/css/main.43023ba9.chunk.css",
+    "static/css/main.125a5430.chunk.css",
     "static/js/main.e8f41fb9.chunk.js"
   ]
 }
