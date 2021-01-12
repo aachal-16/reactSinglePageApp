@@ -18,7 +18,7 @@ class SkibreApp extends React.Component{
                                 <Route path="/" exact component={HomePage}/>
                                 <Route path="/contact"  component={ContactPage} />
                                 <Route path="/friends"  component={FriendsPage} />
-                                {/*<Route component={ErrorPage}/>*/}
+                                <Route component={ErrorPage}/>
                             </Switch>
 
                             <div>
