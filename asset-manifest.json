@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactSinglePageApp/static/css/main.acf2f73a.chunk.css",
+    "main.js": "/reactSinglePageApp/static/js/main.95ccf94e.chunk.js",
+    "main.js.map": "/reactSinglePageApp/static/js/main.95ccf94e.chunk.js.map",
+    "runtime-main.js": "/reactSinglePageApp/static/js/runtime-main.4daa176b.js",
+    "runtime-main.js.map": "/reactSinglePageApp/static/js/runtime-main.4daa176b.js.map",
+    "static/css/2.6921e0b9.chunk.css": "/reactSinglePageApp/static/css/2.6921e0b9.chunk.css",
+    "static/js/2.5aa3b0ca.chunk.js": "/reactSinglePageApp/static/js/2.5aa3b0ca.chunk.js",
+    "static/js/2.5aa3b0ca.chunk.js.map": "/reactSinglePageApp/static/js/2.5aa3b0ca.chunk.js.map",
+    "static/js/3.ff3c0386.chunk.js": "/reactSinglePageApp/static/js/3.ff3c0386.chunk.js",
+    "static/js/3.ff3c0386.chunk.js.map": "/reactSinglePageApp/static/js/3.ff3c0386.chunk.js.map",
+    "index.html": "/reactSinglePageApp/index.html",
+    "static/css/2.6921e0b9.chunk.css.map": "/reactSinglePageApp/static/css/2.6921e0b9.chunk.css.map",
+    "static/css/main.acf2f73a.chunk.css.map": "/reactSinglePageApp/static/css/main.acf2f73a.chunk.css.map",
+    "static/js/2.5aa3b0ca.chunk.js.LICENSE.txt": "/reactSinglePageApp/static/js/2.5aa3b0ca.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactSinglePageApp/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4daa176b.js",
+    "static/css/2.6921e0b9.chunk.css",
+    "static/js/2.5aa3b0ca.chunk.js",
+    "static/css/main.acf2f73a.chunk.css",
+    "static/js/main.95ccf94e.chunk.js"
+  ]
+}
