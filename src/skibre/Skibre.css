@@ -64,6 +64,8 @@ td.last {
     font-size: 18px;
     font-weight: bold;
     vertical-align: middle;
+    text-align: right;
+    margin-right: 9%;
 }
 
 @media (min-width: 1200px){
