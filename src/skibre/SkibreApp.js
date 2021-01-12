@@ -2,7 +2,7 @@ import React from "react"
 import HomePage from "./HomePage";
 import ContactPage from "./ContactPage";
 import FriendsPage from "./FriendsPage.js";
-import {BrowserRouter as Router , Route, Switch} from "react-router-dom"
+import {HashRouter, BrowserRouter as Router , Route, Switch} from "react-router-dom"
 import Menubar from "./Menubar";
 import ErrorPage from "./ErrorPage";
 
@@ -13,7 +13,7 @@ class SkibreApp extends React.Component{
 
                 <div>
                     <h1>
-                        <Router>
+                        <HashRouter basename='/'>
                             <Switch>
                                 <Route path="/" exact component={HomePage}/>
                                 <Route path="/contact"  component={ContactPage} />
@@ -24,7 +24,7 @@ class SkibreApp extends React.Component{
                             <div>
                                 <Menubar/>
                             </div>
-                        </Router>
+                        </HashRouter>
                     </h1>
 
                 </div>
